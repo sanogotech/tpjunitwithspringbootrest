@@ -3,7 +3,7 @@ jdk: oraclejdk8
  
 
  
- before_script:
+before_script:
     #https://docs.travis-ci.com/user/environment-variables/
     # Always run script
     #- $TRAVIS_BUILD_DIR/ci/travis_release_audit.sh
