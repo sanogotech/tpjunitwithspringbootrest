@@ -8,6 +8,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 @EnableJpaAuditing
 public class SpringBootCrudRestApplication {
 
+	//Test Travis
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCrudRestApplication.class, args);
 	}
