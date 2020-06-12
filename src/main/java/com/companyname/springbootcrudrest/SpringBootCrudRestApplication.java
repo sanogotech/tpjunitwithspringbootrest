@@ -10,6 +10,7 @@ public class SpringBootCrudRestApplication {
 
 	//Test Travis
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootCrudRestApplication.class, args)
+		SpringApplication.run(SpringBootCrudRestApplication.class, args);
 	}
+	
 }
